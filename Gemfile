@@ -52,7 +52,7 @@ group :development, :test do
   gem 'debug', platforms: %i[mri windows]
 
   # Security tools
-  gem 'breakman'
+  gem 'brakeman'
   gem 'bundler-audit'
   gem 'ruby_audit'
 
